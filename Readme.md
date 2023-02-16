@@ -20,7 +20,7 @@ Software engineer with software security skills who loves to analyze the interna
 
 
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mobinjafari)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mobinjafari&theme=transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinjafari&show_icons=true&theme=transparent)
 
