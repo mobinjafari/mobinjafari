@@ -25,7 +25,7 @@ Software engineer with software security skills who loves to analyze the interna
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinjafari&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjafari&hide=html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjafari&hide=c&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,cpp,dart,cmake,firebase,flutter,gcp,git,linux,sqlite,&theme=dark&perline=5)](https://skillicons.dev)
 
