@@ -19,7 +19,7 @@ Software engineer with software security skills who loves to analyze the interna
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinjafari&show_icons=true&theme=transparent)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,cpp,dart,cmake,firebase,flutter,gcp,git,linux,sqlite,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,cpp,dart,cmake,firebase,flutter,gcp,git,linux,sqlite,&theme=dark&perline=5)](https://skillicons.dev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-MobinJafari-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mobinjafari/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-BinBreaker-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/lotka_org "My Telegram Channel")
