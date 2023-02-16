@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 Software engineer with software security skills who loves to analyze the internals of existing systems, improve them, and learn from them to design more robust systems.
 
+
+
+
+https://github-readme-streak-stats.herokuapp.com/?user=mobinjafari
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinjafari&show_icons=true&theme=transparent)
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,cpp,dart,cmake,firebase,flutter,gcp,git,linux,sqlite,&theme=dark&perline=5)](https://skillicons.dev)
