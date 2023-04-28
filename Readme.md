@@ -25,7 +25,6 @@ Software engineer with software security skills who loves to analyze the interna
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinjafari&show_icons=true&theme=github_dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjafari&hide=c&theme=tokyonight)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MobinJafari-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mobinjafari/ "Connect on LinkedIn")
