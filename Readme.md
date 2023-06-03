@@ -22,9 +22,6 @@ Software engineer with software security skills who loves to analyze the interna
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mobinjafari&border_radius=5.2)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinjafari)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MobinJafari-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mobinjafari/ "Connect on LinkedIn")
